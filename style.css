@@ -76,7 +76,23 @@ h1{
     padding-right: 20px;
 }
 .last-box{
-    width: 60%;
-    box-shadow: 5px 5px 5px rgb(185, 136, 136);
+    width: 20%;
+    box-shadow: 5px 5px 5px rgb(243, 230, 230);
+    padding-left: 150px;
+    padding-top: 60px;
+    border-radius: 170px;
     
+}
+.banner3{
+
+    background-image: url(images/receipe1.png);
+    border-radius: 8px;
+    
+}
+footer p{
+
+    text-align: center;
+}
+
+
 }
