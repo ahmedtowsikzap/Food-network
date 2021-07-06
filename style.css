@@ -1,10 +1,12 @@
 body{
 
     font-family: 'Poppins', sans-serif;
+    background-color: rgb(234, 233, 236);
+    margin 5px 5px 5px 5px;
 }
 h1{
 
-    font-size: 50px;
+    font-size: 48px;
 }
 .headercolor{
 
@@ -64,9 +66,9 @@ h1{
      width: 40%;
      margin-right: 2% ;
      margin-left: 2%;
-    box-shadow: 10px 20px 50px hsl(0, 13%, 89%);
+    box-shadow: 20px 20px 50px hsl(0, 5%, 78%);
     padding-left: 10px ;
-    border-radius: 30px;
+    border-radius: 35px;
 
 }
 .alignrecepie img{
@@ -77,7 +79,7 @@ h1{
 }
 .last-box{
     width: 20%;
-    box-shadow: 5px 5px 5px rgb(243, 230, 230);
+    box-shadow: 2px 2px 2px rgb(187, 171, 171);
     padding-left: 150px;
     padding-top: 60px;
     border-radius: 170px;
@@ -88,10 +90,13 @@ h1{
     background-image: url(images/receipe1.png);
     border-radius: 8px;
     
+    
 }
 footer p{
 
     text-align: center;
     color: rgb(214, 204, 54);
     font-family: 30px;
+    
+
 }
